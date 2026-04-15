@@ -15,6 +15,7 @@ body {
     min-height: 100vh;
 }
 
+
 header, h1 {
     font-weight: bolder;
     font-size: larger;
@@ -49,7 +50,6 @@ button:hover {
     background-color: blue;
     color: white;
 }
-
 
 /* 3. Grid Layout */
 .main {
